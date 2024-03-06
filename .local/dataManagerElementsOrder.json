@@ -1,0 +1,35 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "BrowserVar&Sequence_4",
+        "i&Sequence_1",
+        "JobTitle&Sequence_1",
+        "RawData&Sequence_1",
+        "JsonData&Sequence_1",
+        "Zip&Sequence_1",
+        "State&Sequence_1",
+        "City&Sequence_1",
+        "Manager&Sequence_1",
+        "EmailId&Sequence_1",
+        "Dept&Sequence_1",
+        "LastName&Sequence_1",
+        "FirstName&Sequence_1",
+        "EmpId&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
